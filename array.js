@@ -46,6 +46,8 @@ const vegetable=['carrot','beans','poatato'];
 const fruitcopy=[...fruits];
 console.log("fruits copy: ",fruitcopy);
 
+console.log("Harsh");
+
 
 
 
